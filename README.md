@@ -1,5 +1,5 @@
 # azure-deploy-cmd
-Windows Azure ASP.NET web application deployment command
+Azure website deployment script
 
 ###Added Azure websites application settings
 
